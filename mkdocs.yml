@@ -1,0 +1,11 @@
+site_name: ResearchAI Documentation
+repo_url: https://github.com/HuseynG/ResearchAI
+nav:
+  - Home: index.md
+  - ResearchAI:
+    - app: researchai/app.md
+theme: readthedocs
+plugins:
+  - mkdocstrings
+watch:
+  - .  # reload docs for any file changes
