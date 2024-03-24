@@ -1,6 +1,3 @@
-from typing import int
-
-
 # a dummy python function
 def dummy_add(a: int, b: int) -> int:
     """This is a dummy function that I did for sake of estabishing code base
